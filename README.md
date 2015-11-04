@@ -3,5 +3,11 @@ jhs-fizz is a POS solution created by Austin Benfield developed for Joplin High 
 # Objectives:
 - TBA -
 
-# How To Use
+# How To Use:
+- TBA
+
+# Credits:
+- TBA
+- 
+# Licenses:
 - TBA
