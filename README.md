@@ -8,7 +8,7 @@ jhs-fizz is a POS solution created by Austin Benfield developed for Joplin High 
 - Implement PHP Installer
 
 # How To Use:
-- TBA
+- Click Open
 
 # Credits/Licenses:
 - Austin Benfield (Programmer)
