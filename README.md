@@ -1,5 +1,5 @@
 # jhs-fizz
-jhs-fizz is a POS solution created by Austin Benfield developed for Joplin High School's Fusion. 
+jhs-fizz is a php based POS solution created by Austin Benfield developed for Joplin High School's Fusion.  
 # Objectives:
 - Create a static html pages
 - Implement php solution.
