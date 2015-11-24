@@ -4,7 +4,7 @@ TODO: Finish Project.
 
 ## Installation
 
-**Requirements : A web server that support Php and MySQL and have the ability to upload files to your web server.**
+**Requirements : A web server that support PHP and MySQL and have the ability to upload files to your web server.**
 
 ## Usage
 
