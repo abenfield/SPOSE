@@ -17,7 +17,7 @@
 		
 		}
 		
-		public function display($content, $title) {
+		public function display($content, $title, $tcolor, $mcolor, $bcolor) {
 		
 			global $page;
 		

@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Area"
-AuthUserFile /customers/b/6/2/benfielddesigns.com/httpd.www/fizz/config/.htpasswd
-Require valid-user

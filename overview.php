@@ -2,7 +2,7 @@
 
 	include("config/config.php");
 	
-	$title = "Fizz";
+
 	
 	$content = <<<EOT
 
@@ -25,7 +25,7 @@
 
 EOT;
 	
-	$site->display($content, $title);
+	$site->display($content, $title, $tcolor, $mcolor, $bcolor);
 
 
 ?>

@@ -2,10 +2,10 @@
 
 	include("config/config.php");
 	
-	
+
+
 	$content = <<<EOT
 
-<span class = "center" style ="color:red">***Database isn't connected!***</span>
         <div class = wrapper>
           
        <select style = "width:100%; height:30px; margin-top:25px; margin-bottom:25px;">
@@ -74,7 +74,7 @@
 
 EOT;
 	
-	$site->display($content, $title);
+	$site->display($content, $title, $tcolor, $mcolor, $bcolor);
 
 
 ?>
