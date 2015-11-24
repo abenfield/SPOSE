@@ -4,7 +4,7 @@ TODO: Finish Project.
 
 ## Installation
 
-TODO: Describe the installation process
+**Requirements : A web server that support Php and MySQL and have the ability to upload files to your web server.**
 
 ## Usage
 
