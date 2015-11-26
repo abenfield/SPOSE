@@ -1,7 +1,6 @@
-# LWP-POS (Lightweight PHP Point of Sale)
+# SPOSE (Simple Point of System Entity)
 
-TODO: Finish Project.
-
+SPOSE is a lightweight PHP-based Point of System.
 ## Installation
 
 **Requirements : A web server that support PHP and MySQL and have the ability to upload files to your web server.**
