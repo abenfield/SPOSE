@@ -1,4 +1,4 @@
-# SPOSE (Simple Point of System Entry)
+# SPOSE (Simple Point of Sale Entry)
 
 SPOSE is a lightweight PHP-based Point of Sale System.
 ## Installation
